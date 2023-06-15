@@ -1,0 +1,54 @@
+
+
+    
+
+li{
+    text-size-adjust: ;
+    
+}
+h1{
+font-style: italic;
+font-weight: bold;
+
+
+
+    
+
+}
+ 
+
+
+h3{
+    font-size: xx-large;
+    
+}
+p1{
+    color:  rgba(2, 2, 127, 0.807) ;;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: lighter;
+    padding-right: 25%;
+    
+
+    
+}
+p2{
+    color:  rgba(2, 2, 127, 0.807) ;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: lighter;
+}
+ 
+.ul2{
+    list-style: none;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: lighter;
+    color: rgba(2, 2, 127, 0.807);
+    padding-top: 3%;
+
+    
+}
+.container flex {
+    padding-top: 10%;
+}
